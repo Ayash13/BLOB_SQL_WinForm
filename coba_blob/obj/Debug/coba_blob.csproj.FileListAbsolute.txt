@@ -1,0 +1,11 @@
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.csproj.AssemblyReference.cache
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.csproj.SuggestedBindingRedirects.cache
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.DataMahasiswa.resources
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.Properties.Resources.resources
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.csproj.GenerateResource.cache
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.csproj.CoreCompileInputs.cache
+E:\CODING\coba_blob\coba_blob\bin\Debug\coba_blob.exe.config
+E:\CODING\coba_blob\coba_blob\bin\Debug\coba_blob.exe
+E:\CODING\coba_blob\coba_blob\bin\Debug\coba_blob.pdb
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.exe
+E:\CODING\coba_blob\coba_blob\obj\Debug\coba_blob.pdb
